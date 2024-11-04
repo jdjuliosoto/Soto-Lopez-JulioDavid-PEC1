@@ -1,4 +1,4 @@
-.gitignore: documentos que no se comprometen utilizados en la configuración de la sesión de Rstudio
+.gitignore: documentos que no se comprometen utilizados en la configuración de la sesión de Rstudio /n
 GastricCancer_NMR.txt: datos utilizados durante la PEC1 en formato .txt
 GastricCancer_NMR.xlsx: datos utilizados durante la PEC1 en formato .xlsx
 Metadata.Rmd: descripción de los datos utilizados durante la PEC1 ubicados en el archivo GastricCancer_NMR.xlsx
