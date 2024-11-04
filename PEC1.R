@@ -1,6 +1,10 @@
 # Conectarse a github
 library(usethis)
+usethis::edit_git_config()
+
+library(usethis)
 usethis::create_github_token()
+
 library(gitcreds)
 gitcreds::gitcreds_set()
 
