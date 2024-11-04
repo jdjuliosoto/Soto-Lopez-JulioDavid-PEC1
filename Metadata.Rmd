@@ -1,0 +1,20 @@
+---
+title: "Metadatos"
+author: "Julio Soto"
+date: "2024-11-04"
+output: html_document
+---
+
+El archivo Excel contiene una hoja de datos y una hoja de picos. La hoja de datos contiene todas las concentraciones de metabolitos y los metadatos asociados con cada observación. La hoja de picos contiene todos los metadatos correspondientes a cada metabolito medido.
+
+Los datos constan de 140 muestras y 149 metabolitos.
+
+Las columnas M1 ... M149 describen las concentraciones de metabolitos.
+La columna SampleType indica si la muestra era un control de calidad agrupado o una muestra de estudio.
+La columna Class indica el resultado clínico observado para ese individuo: GC = cáncer gástrico, BN = tumor benigno, HE = control sano
+
+Los espectros de RMN de 1H se adquirieron en el Centro Nacional de Resonancia Magnética Nuclear de Campo Alto (NANUC) de Canadá utilizando un espectrómetro Varian Inova de 600 MHz.
+
+- La deconvolución espectral y la anotación de metabolitos se realizaron utilizando el paquete de RMN Chenomx v7.6.
+
+Conjunto de datos utilizado ["Flujo de trabajo de análisis de datos metabolómicos básicos"](https://cimcb.github.io/MetabWorkflowTutorial/Tutorial1.html)
